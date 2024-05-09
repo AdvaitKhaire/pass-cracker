@@ -11,13 +11,13 @@ PassCracker is a Python script designed to crack hashed passwords using brute fo
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/PassCracker.git
+git clone https://github.com/AdvaitKhaire/pass-cracker.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd PassCracker
+cd pass-cracker
 ```
 
 3. Run the PassCracker script:
